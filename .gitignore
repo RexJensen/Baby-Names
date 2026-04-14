@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/national/
+data/names.zip
+data/hadley.csv
